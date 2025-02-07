@@ -80,9 +80,7 @@ footer{
 }
 
 @media (min-width: 760px) {
-    .container{
-        margin-top: 50px;
-    }
+    
 
     .attribution{
         font-size: 9px;
